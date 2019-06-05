@@ -1,0 +1,43 @@
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Bot Application.dll.config
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Bot Application.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Bot Application.pdb
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Autofac.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Chronic.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Bot.Builder.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Bot.Connector.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Newtonsoft.Json.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.Net.Http.Formatting.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.Web.Http.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.Web.Http.WebHost.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Autofac.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Bot.Builder.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.Bot.Connector.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\Newtonsoft.Json.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.Net.Http.Formatting.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.Web.Http.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\System.Web.Http.WebHost.xml
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\obj\Debug\AdaptiveCard.csprojResolveAssemblyReference.cache
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\obj\Debug\AdaptiveCard.csproj.CoreCompileInputs.cache
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\obj\Debug\AdaptiveCard.csproj.CopyComplete
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\obj\Debug\Bot Application.dll
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\obj\Debug\Bot Application.pdb
+C:\Users\m1035931\Documents\Visual Studio 2017\Projects\AdaptiveCard\AdaptiveCard\bin\AdaptiveCards.dll
