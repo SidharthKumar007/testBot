@@ -30,33 +30,3 @@ EndGlobal
 
 
 
-public static string CLIENTSECRET = ConfigurationManager.AppSettings["vaultClientSecret"];
-        public static string CLIENTID = ConfigurationManager.AppSettings["vaultClientId"];
-        public static string BASESECRETURI = ConfigurationManager.AppSettings["vaultBaseSecretUri"];
-        static string SECRETNAME = ConfigurationManager.AppSettings["vaultAPIKeyName"];
-        static KeyVaultClient kvc = null;
-        //static string yourApiKey = "blabla";
-
-        string keyFromVault = GetKeyFromVault(SECRETNAME);
-        public static async Task<string> GetToken(string authority, string resource, string scope)
-        {
-            var authContext = new AuthenticationContext(authority);
-            ClientCredential clientCred = new ClientCredential(CLIENTID, CLIENTSECRET);
-            AuthenticationResult result = await authContext.AcquireTokenAsync(resource, clientCred);
-            if (result == null)
-                throw new InvalidOperationException("Failed to obtain the JWT token");
-            return result.AccessToken;
-        }
-        public static string GetKeyFromVault(string secretName)
-        {
-            const SslProtocols _Tls12 = (SslProtocols)0x00000C00;
-            const SecurityProtocolType Tls12 = (SecurityProtocolType)_Tls12;
-            ServicePointManager.SecurityProtocol = Tls12;
-
-            kvc = new KeyVaultClient(new KeyVaultClient.AuthenticationCallback(GetToken));
-
-            SecretBundle secret = Task.Run(() => kvc.GetSecretAsync(BASESECRETURI +
-                @"/secrets/" + secretName)).ConfigureAwait(false).GetAwaiter().GetResult();
-
-            return secret.Value;
-        }
